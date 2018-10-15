@@ -6,6 +6,7 @@ body {
 }
 h1 {
   font-family: "Open Sans";
+  font-size: 28px;
   color: #2E6E80;
   text-transform: uppercase;
   margin-left: 160px;
@@ -13,18 +14,20 @@ h1 {
 }
 h2 {
   font-family: "Roboto";
+  font-size: 25px;
   color: #5C8E9C;
   text-transform: uppercase;
 }
 h3 {
   font-family: "Krub";
+  font-size: 22px;
   color: #007997;
   text-transform: uppercase;
 }
 p {
   font-family: "K2D";
   color: #25A18E;
-  font-size: 14px;
+  font-size: 19px;
 }
 .port {
   border-radius: 50%;
