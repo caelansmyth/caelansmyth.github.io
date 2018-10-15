@@ -21,6 +21,11 @@ h3 {
   color: #007997;
   text-transform: uppercase;
 }
+p {
+  font-family: "K2D";
+  color: #25A18E;
+  font-size: 14px;
+}
 .port {
   border-radius: 50%;
   border: 5px solid;
