@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Krub|Ubuntu|K2D|Playfair+Display|Titillium+Web');
+body {
+  background-color: #F6FFFA;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+h1 {
+  font-family: "Open Sans";
+  color: #2E6E80;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: "Roboto";
+  color: #5C8E9C;
+  text-transform: uppercase;
+}
+h3 {
+  font-family: "Krub";
+  color: #007997;
+  text-transform: uppercase;
+}
+
+.port {
+  border-radius: 50%;
+  border: 5px solid;
+  border-color: #00A5CF;
+  width: 100px;
+  height: 100px;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #004E64;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #F6FFFA;
+    display: block;
+    font-family: "Ubuntu";
+}
+
+.sidenav a:hover {
+    color: #E4FFF0;
+}
+
+.main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
