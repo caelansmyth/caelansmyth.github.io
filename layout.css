@@ -79,7 +79,10 @@ li {
   padding-bottom: 200px;
 }
 @media only screen and (max-width: 500px) {
-    .sidenav {padding-top: 15px;}
+    .sidenav {
+      padding-top: 15px;
+      width: 15%;
+    }
     .sidenav a {font-size: 18px;}
     .main {width: 100%;}
     p{font-size: 15px;}
