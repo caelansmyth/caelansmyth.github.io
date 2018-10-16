@@ -84,11 +84,8 @@ li {
       width: 135px;
     }
     .sidenav a {font-size: 18px;}
-    .main {width: 100%;}
+    .main {width: 100%;text-align: center;}
     p{font-size: 15px;}
-    h1{
-      font-size: 24px;
-      margin-left: 135px;
-    }
+    h1{font-size: 24px;}
     h2{font-size: 21px;}
     h3{font-size: 18px;}
