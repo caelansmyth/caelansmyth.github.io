@@ -63,10 +63,6 @@ p {
     margin-left: 160px; /* Same as the width of the sidenav */
     padding: 0px 10px;
 }
-@media only screen and (max-width: 500px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-    .main {width: 100%; font-size: 15px;}
 }
 .fa-stack-1x, .fa-stack-2x {
     width: 100%;
@@ -82,3 +78,11 @@ li {
 .abutt {
   padding-bottom: 200px;
 }
+@media only screen and (max-width: 500px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+    .main {width: 100%;}
+    p{font-size: 15px;}
+    h1{font-size: 24px;}
+    h2{font-size: 21px;}
+    h3{font-size: 18px;}
