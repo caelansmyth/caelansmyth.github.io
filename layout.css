@@ -3,6 +3,9 @@ h1, h2, h3 {
   font-family: "Open Sans";
   color: #8AB0AB;
 }
+p {
+  font-family: "Roboto";
+}
 footer {
   background-color: #3E505B;
   text-align: center;
