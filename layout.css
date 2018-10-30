@@ -75,6 +75,7 @@ ul {
 }
 li {
   display: inline-block;
+  border: 1px solid #F6FFFA;
 }
 .abutt {
   padding-bottom: 200px;
