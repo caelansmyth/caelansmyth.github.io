@@ -29,7 +29,7 @@ a {
   font-family: "Ubuntu";
   color: #A9C5C1;
   text-transform: uppercase;
-  text-align: justify;
+  font-size: 12px;
 }
 a:visited {
   text-decoration: none;
