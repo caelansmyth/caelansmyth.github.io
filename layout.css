@@ -28,6 +28,7 @@ a {
   text-decoration: none;
   font-family: "Ubuntu";
   color: #A9C5C1;
+  text-transform: uppercase;
 }
 a:visited {
   text-decoration: none;
