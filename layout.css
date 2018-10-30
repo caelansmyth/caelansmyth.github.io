@@ -71,6 +71,7 @@ p {
 }
 ul {
   list-style: none;
+  border: 1px solid #F6FFFA;
 }
 li {
   display: inline-block;
