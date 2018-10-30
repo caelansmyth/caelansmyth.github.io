@@ -10,3 +10,12 @@ footer p {
   color: #8AB0AB;
   font-family: "Krub";
 }
+a {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+i {
+  
+}
