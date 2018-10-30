@@ -3,3 +3,10 @@ h1, h2, h3 {
   font-family: "Open Sans";
   color: #8AB0AB;
 }
+footer {
+  background-color: #3E505B;
+}
+footer p {
+  color: #8AB0AB;
+  font-family: "Krub";
+}
