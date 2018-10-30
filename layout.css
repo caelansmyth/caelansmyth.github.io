@@ -5,6 +5,7 @@ h1, h2, h3 {
 }
 footer {
   background-color: #3E505B;
+  text-align: center;
 }
 footer p {
   color: #8AB0AB;
@@ -17,5 +18,5 @@ a:visited {
   text-decoration: none;
 }
 i {
-  
+  color: #33403F;
 }
