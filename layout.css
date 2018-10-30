@@ -2,12 +2,13 @@
 body {
   background-color: #DFE9E8;
 }
-h1, h2, h3 {
+h1, h2 {
   font-family: "Open Sans";
-  color: #8AB0AB;
   text-transform: uppercase;
   text-decoration: underline;
 }
+h1 {color: #8AB0AB;}
+h2 {color: #7EA09C}
 p {
   font-family: "Roboto";
   color: #3E505B;
