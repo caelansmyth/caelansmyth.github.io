@@ -30,6 +30,7 @@ a {
   color: #A9C5C1;
   text-transform: uppercase;
   font-size: 12px;
+  text-align: center;
 }
 a:visited {
   text-decoration: none;
@@ -46,6 +47,7 @@ i:hover {
 ul {
   width: 100%;
   top: 0;
+  left: 0;
   position: fixed;
   list-style-type: none;
   margin: 0;
