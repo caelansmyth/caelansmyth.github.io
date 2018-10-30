@@ -59,7 +59,7 @@ li:last-child{
 }
 li a {
   float: left;
-  display: inline-block;
+  display: inline;
   padding: 14px 16px;
   width: 60px;
 }
