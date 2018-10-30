@@ -1,10 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Krub|Ubuntu|K2D|Playfair+Display|Titillium+Web');
+body {
+  background-color: #DFE9E8;
+}
 h1, h2, h3 {
   font-family: "Open Sans";
   color: #8AB0AB;
+  text-transform: uppercase;
+  text-decoration: underline;
 }
 p {
   font-family: "Roboto";
+  color: #3E505B;
 }
 footer {
   background-color: #3E505B;
@@ -20,6 +26,8 @@ footer p {
 }
 a {
   text-decoration: none;
+  font-family: "Ubuntu";
+  color: #A9C5C1;
 }
 a:visited {
   text-decoration: none;
@@ -27,4 +35,12 @@ a:visited {
 i {
   color: #33403F;
   width: 100%;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: #020A08;
 }
