@@ -38,8 +38,7 @@ a:visited {
 }
 i {
   color: #33403F;
-  width: 150px;
-  height: auto;
+  font-size: 25px;
   display: inline;
 }
 i:hover {
