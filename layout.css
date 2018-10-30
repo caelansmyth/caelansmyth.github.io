@@ -36,7 +36,7 @@ a {
 a:visited {
   text-decoration: none;
 }
-i {
+a i {
   color: #33403F;
   width: 25px;
   height: auto;
