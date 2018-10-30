@@ -39,15 +39,22 @@ i {
   height: auto;
   display: inline;
 }
+i:hover {
+  color: #4C605E;
+}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: #020A08;
 }
 li a {
+  float: left;
   display: block;
+  padding: 14px 16px;
   width: 60px;
 }
-.navbar {
-  background-color: #020A08;
+li a:hover {
+  color: #94B7B2;
 }
