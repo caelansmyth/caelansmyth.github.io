@@ -38,7 +38,8 @@ a:visited {
 }
 .icoro {
   color: #33403F;
-  width: 50px;
+  width: 150px;
+  height: auto;
   display: inline;
 }
 i:hover {
