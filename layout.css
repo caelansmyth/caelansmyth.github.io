@@ -36,15 +36,16 @@ a {
 a:visited {
   text-decoration: none;
 }
-i {
+.icoro {
   color: #33403F;
-  font-size: 25px;
+  width: 150px;
+  height: auto;
   display: inline;
 }
 i:hover {
   color: #4C605E;
 }
-.navbar {
+ul {
   width: 100%;
   top: 0;
   left: 0;
@@ -69,10 +70,4 @@ li a {
 }
 li a:hover {
   color: #94B7B2;
-}
-.iconslist {
-  list-style-type: none;
-}
-.icoro {
-  display: inline;
 }
