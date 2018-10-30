@@ -29,6 +29,7 @@ a {
   font-family: "Ubuntu";
   color: #A9C5C1;
   text-transform: uppercase;
+  text-align: justify;
 }
 a:visited {
   text-decoration: none;
@@ -43,6 +44,7 @@ i:hover {
   color: #4C605E;
 }
 ul {
+  position: fixed;
   list-style-type: none;
   margin: 0;
   padding: 0;
