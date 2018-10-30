@@ -44,6 +44,8 @@ i:hover {
   color: #4C605E;
 }
 ul {
+  width: 100%;
+  top: 0;
   position: fixed;
   list-style-type: none;
   margin: 0;
