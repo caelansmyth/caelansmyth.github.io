@@ -2,19 +2,17 @@
 body {
   background-color: #DFE9E8;
 }
-h1, h2 {
+h1, h2, h3{
   font-family: "Open Sans";
   text-transform: uppercase;
   text-decoration: underline;
 }
 h1 {color: #8AB0AB;}
-h2 {color: #7EA09C}
+h2 {color: #7EA09C;}
+h3 {color: #1A1D1A;}
 p {
   font-family: "Roboto";
   color: #3E505B;
-}
-.desc {
-  page-break-after: always;
 }
 footer {
   background-color: #3E505B;
@@ -73,4 +71,7 @@ li a {
 }
 li a:hover {
   color: #94B7B2;
+}
+div {
+  page-break-after: always;
 }
