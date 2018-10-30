@@ -36,7 +36,7 @@ a {
 a:visited {
   text-decoration: none;
 }
-a i {
+.icoro {
   color: #33403F;
   width: 50px;
   height: auto;
