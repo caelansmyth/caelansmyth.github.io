@@ -34,7 +34,8 @@ a:visited {
 }
 i {
   color: #33403F;
-  width: 100%;
+  width: 25px;
+  height: auto;
 }
 ul {
   list-style: none;
