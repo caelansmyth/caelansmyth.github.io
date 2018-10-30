@@ -47,23 +47,7 @@ p {
     overflow-x: hidden;
     padding-top: 20px;
 }
-.sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 22px;
-    color: #F6FFFA;
-    display: block;
-    font-family: "Ubuntu";
-}
-.sidenav a:hover {
-    color: #E4FFF0;
-}
-.main {
-    margin-left: 160px; /* Same as the width of the sidenav */
-    padding: 0px 10px;
-}
-}
+
 .fa-stack-1x, .fa-stack-2x {
     width: 100%;
     position: absolute;
@@ -71,11 +55,10 @@ p {
 }
 ul {
   list-style: none;
-  border: 1px solid #F6FFFA;
+  background-color: #004E64;
 }
 li {
-  display: inline-block;
-  border: 1px solid #F6FFFA;
+  display: inline;
 }
 .abutt {
   padding-bottom: 200px;
