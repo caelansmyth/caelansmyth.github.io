@@ -57,6 +57,7 @@ ul {
   overflow: hidden;
   background-color: #020A08;
 }
+div {padding-bottom: 100px;}
 li {
   border-right: 1px solid #bbb;
 }
