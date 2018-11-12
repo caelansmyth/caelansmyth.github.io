@@ -37,7 +37,7 @@ a {
 a:visited {
   text-decoration: none;
 }
-i {
+.fa {
   font-size: 50px;
   color: #33403F;
   width: 150px;
