@@ -37,9 +37,10 @@ a {
 a:visited {
   text-decoration: none;
 }
-.fa-stack-1x {
+i {
   color: #33403F;
-  font-size: 30px;
+  width: 150px;
+  height: auto;
   display: inline;
 }
 i:hover {
