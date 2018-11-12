@@ -73,6 +73,6 @@ li a {
 li a:hover {
   color: #94B7B2;
 }
-div {
-  page-break-after: always;
+.blanksp {
+  padding-bottom: 100px;
 }
